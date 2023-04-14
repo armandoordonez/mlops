@@ -647,3 +647,903 @@ Alternately, you can install this by running `pip install pycaret[models]`
 2023-04-11 15:07:42,245:INFO:load_model(model_name=deployment_AI_11_04_23, platform=None, authentication=None, verbose=True)
 2023-04-11 15:07:56,184:INFO:Initializing load_model()
 2023-04-11 15:07:56,184:INFO:load_model(model_name=deployment_AI_11_04_23, platform=None, authentication=None, verbose=True)
+2023-04-13 10:21:42,264:WARNING:C:\Users\Personal\anaconda3\lib\site-packages\numpy\__init__.py:148: UserWarning: mkl-service package failed to import, therefore Intel(R) MKL initialization ensuring its correct out-of-the box operation under condition when Gnu OpenMP had already been loaded by Python process is not assured. Please install mkl-service package, see http://github.com/IntelPython/mkl-service
+  from . import _distributor_init
+
+2023-04-13 10:22:30,555:WARNING:C:\Users\Personal\anaconda3\lib\site-packages\numpy\__init__.py:148: UserWarning: mkl-service package failed to import, therefore Intel(R) MKL initialization ensuring its correct out-of-the box operation under condition when Gnu OpenMP had already been loaded by Python process is not assured. Please install mkl-service package, see http://github.com/IntelPython/mkl-service
+  from . import _distributor_init
+
+2023-04-13 10:24:27,040:WARNING:C:\Users\Personal\anaconda3\lib\site-packages\numpy\__init__.py:148: UserWarning: mkl-service package failed to import, therefore Intel(R) MKL initialization ensuring its correct out-of-the box operation under condition when Gnu OpenMP had already been loaded by Python process is not assured. Please install mkl-service package, see http://github.com/IntelPython/mkl-service
+  from . import _distributor_init
+
+2023-04-13 10:40:16,651:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:40:16,653:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:40:16,653:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:40:16,653:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:40:18,991:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 10:40:20,218:INFO:Initializing load_model()
+2023-04-13 10:40:20,218:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 10:40:20,226:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 10:40:25,238:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:40:25,238:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:40:25,238:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:40:25,238:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:40:26,371:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 10:40:27,666:INFO:Initializing load_model()
+2023-04-13 10:40:27,666:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 10:40:27,676:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 10:41:28,251:INFO:Initializing predict_model()
+2023-04-13 10:41:28,258:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000022B36027460>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x0000022B3603A290>)
+2023-04-13 10:41:28,258:INFO:Checking exceptions
+2023-04-13 10:41:28,258:INFO:Preloading libraries
+2023-04-13 10:41:28,261:INFO:Set up data.
+2023-04-13 10:41:28,281:INFO:Set up index.
+2023-04-13 10:42:31,353:INFO:Initializing predict_model()
+2023-04-13 10:42:31,360:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000022B3786EC80>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x0000022B37568040>)
+2023-04-13 10:42:31,361:INFO:Checking exceptions
+2023-04-13 10:42:31,361:INFO:Preloading libraries
+2023-04-13 10:42:31,369:INFO:Set up data.
+2023-04-13 10:42:31,496:INFO:Set up index.
+2023-04-13 10:42:48,926:INFO:Initializing predict_model()
+2023-04-13 10:42:48,931:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000022B3786D6C0>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x0000022B37568040>)
+2023-04-13 10:42:48,931:INFO:Checking exceptions
+2023-04-13 10:42:48,931:INFO:Preloading libraries
+2023-04-13 10:42:48,931:INFO:Set up data.
+2023-04-13 10:42:48,941:INFO:Set up index.
+2023-04-13 10:44:21,295:INFO:Initializing predict_model()
+2023-04-13 10:44:21,299:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000022B3786EDD0>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x0000022B37568A60>)
+2023-04-13 10:44:21,299:INFO:Checking exceptions
+2023-04-13 10:44:21,299:INFO:Preloading libraries
+2023-04-13 10:44:21,313:INFO:Set up data.
+2023-04-13 10:44:21,356:INFO:Set up index.
+2023-04-13 10:44:47,991:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:44:47,991:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:44:47,991:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:44:47,991:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:44:49,512:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 10:44:51,061:INFO:Initializing load_model()
+2023-04-13 10:44:51,061:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 10:44:51,076:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 10:44:59,812:INFO:Initializing predict_model()
+2023-04-13 10:44:59,812:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000027255526830>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x0000027255539E10>)
+2023-04-13 10:44:59,817:INFO:Initializing predict_model()
+2023-04-13 10:44:59,817:INFO:Checking exceptions
+2023-04-13 10:44:59,818:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000027255527370>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x000002725553A680>)
+2023-04-13 10:44:59,819:INFO:Preloading libraries
+2023-04-13 10:44:59,819:INFO:Checking exceptions
+2023-04-13 10:44:59,820:INFO:Set up data.
+2023-04-13 10:44:59,821:INFO:Preloading libraries
+2023-04-13 10:44:59,832:INFO:Set up index.
+2023-04-13 10:44:59,832:INFO:Set up data.
+2023-04-13 10:44:59,861:INFO:Set up index.
+2023-04-13 10:45:37,601:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:45:37,601:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:45:37,601:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:45:37,601:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:45:39,051:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 10:45:40,338:INFO:Initializing load_model()
+2023-04-13 10:45:40,338:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 10:45:40,351:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 10:45:50,262:INFO:Initializing predict_model()
+2023-04-13 10:45:50,262:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025FB7E22410>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x0000025FB7E39CF0>)
+2023-04-13 10:45:50,262:INFO:Checking exceptions
+2023-04-13 10:45:50,262:INFO:Preloading libraries
+2023-04-13 10:45:50,266:INFO:Set up data.
+2023-04-13 10:45:50,277:INFO:Set up index.
+2023-04-13 10:46:17,492:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:46:17,492:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:46:17,492:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:46:17,492:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:46:19,521:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 10:46:21,154:INFO:Initializing load_model()
+2023-04-13 10:46:21,154:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 10:46:21,172:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 10:46:28,734:INFO:Initializing predict_model()
+2023-04-13 10:46:28,735:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001FC84926410>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x000001FC84939CF0>)
+2023-04-13 10:46:28,736:INFO:Checking exceptions
+2023-04-13 10:46:28,736:INFO:Preloading libraries
+2023-04-13 10:46:28,736:INFO:Set up data.
+2023-04-13 10:46:28,748:INFO:Set up index.
+2023-04-13 10:47:39,362:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:47:39,362:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:47:39,362:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:47:39,362:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:47:40,461:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 10:47:41,682:INFO:Initializing load_model()
+2023-04-13 10:47:41,682:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 10:47:41,693:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 10:47:58,271:INFO:Initializing predict_model()
+2023-04-13 10:47:58,271:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001B17FD26590>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x000001B17FD39D80>)
+2023-04-13 10:47:58,272:INFO:Checking exceptions
+2023-04-13 10:47:58,272:INFO:Preloading libraries
+2023-04-13 10:47:58,274:INFO:Set up data.
+2023-04-13 10:47:58,307:INFO:Set up index.
+2023-04-13 10:50:25,225:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:50:25,225:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:50:25,225:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:50:25,225:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:50:30,431:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 10:50:36,391:INFO:Initializing load_model()
+2023-04-13 10:50:36,391:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 10:50:36,422:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 10:50:47,116:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:50:47,118:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:50:47,118:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:50:47,118:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:50:49,021:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 10:50:51,074:INFO:Initializing load_model()
+2023-04-13 10:50:51,074:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 10:50:51,107:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 10:51:46,779:INFO:Initializing predict_model()
+2023-04-13 10:51:46,782:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000270177492D0>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x000002701775CCA0>)
+2023-04-13 10:51:46,782:INFO:Checking exceptions
+2023-04-13 10:51:46,782:INFO:Preloading libraries
+2023-04-13 10:51:46,796:INFO:Set up data.
+2023-04-13 10:51:46,847:INFO:Set up index.
+2023-04-13 10:52:10,881:INFO:Initializing predict_model()
+2023-04-13 10:52:10,887:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000027017A37730>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x0000027017B76680>)
+2023-04-13 10:52:10,887:INFO:Checking exceptions
+2023-04-13 10:52:10,887:INFO:Preloading libraries
+2023-04-13 10:52:10,887:INFO:Set up data.
+2023-04-13 10:52:10,913:INFO:Set up index.
+2023-04-13 10:54:31,202:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:54:31,202:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:54:31,202:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:54:31,202:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:54:33,720:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 10:54:38,969:INFO:Initializing load_model()
+2023-04-13 10:54:38,969:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 10:54:39,036:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 10:54:55,587:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:54:55,589:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:54:55,589:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:54:55,589:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 10:54:58,357:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 10:55:02,239:INFO:Initializing load_model()
+2023-04-13 10:55:02,239:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 10:55:02,303:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 10:55:17,118:INFO:Initializing predict_model()
+2023-04-13 10:55:17,120:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001EC23A6CA30>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x000001EC228C7A30>)
+2023-04-13 10:55:17,120:INFO:Checking exceptions
+2023-04-13 10:55:17,121:INFO:Preloading libraries
+2023-04-13 10:55:17,123:INFO:Set up data.
+2023-04-13 10:55:17,142:INFO:Set up index.
+2023-04-13 10:55:38,492:INFO:Initializing predict_model()
+2023-04-13 10:55:38,492:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001EC23A6EC80>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x000001EC23A81CF0>)
+2023-04-13 10:55:38,492:INFO:Checking exceptions
+2023-04-13 10:55:38,492:INFO:Preloading libraries
+2023-04-13 10:55:38,492:INFO:Set up data.
+2023-04-13 10:55:38,517:INFO:Set up index.
+2023-04-13 10:55:39,753:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:271: UserWarning: Persisting input arguments took 0.59s to run.
+If this happens often in your code, it can cause performance problems 
+(results will be correct in all cases). 
+The reason for this is probably some large input arguments for a wrapped
+ function (e.g. large strings).
+THIS IS A JOBLIB ISSUE. If you can, kindly provide the joblib's team with an
+ example so that they can fix the problem.
+  X, y = self._memory_full_transform(
+
+2023-04-13 10:56:09,341:INFO:Initializing predict_model()
+2023-04-13 10:56:09,342:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001EC241067A0>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x000001EC23A82200>)
+2023-04-13 10:56:09,342:INFO:Checking exceptions
+2023-04-13 10:56:09,342:INFO:Preloading libraries
+2023-04-13 10:56:09,346:INFO:Set up data.
+2023-04-13 10:56:09,382:INFO:Set up index.
+2023-04-13 11:09:59,983:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:09:59,985:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:09:59,985:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:09:59,985:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:10:03,826:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 11:10:10,320:INFO:Initializing load_model()
+2023-04-13 11:10:10,322:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 11:10:10,364:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 11:10:12,416:INFO:Initializing predict_model()
+2023-04-13 11:10:12,417:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001DEAA6DF130>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x000001DEAA999510>)
+2023-04-13 11:10:12,417:INFO:Checking exceptions
+2023-04-13 11:10:12,417:INFO:Preloading libraries
+2023-04-13 11:10:12,418:INFO:Set up data.
+2023-04-13 11:10:12,429:INFO:Set up index.
+2023-04-13 11:11:08,327:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:11:08,328:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:11:08,328:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:11:08,328:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:11:12,726:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 11:11:20,787:INFO:Initializing load_model()
+2023-04-13 11:11:20,787:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 11:11:20,821:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 11:11:21,891:INFO:Initializing predict_model()
+2023-04-13 11:11:21,891:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001E6D9EDF130>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x000001E6DA199510>)
+2023-04-13 11:11:21,891:INFO:Checking exceptions
+2023-04-13 11:11:21,891:INFO:Preloading libraries
+2023-04-13 11:11:21,900:INFO:Set up data.
+2023-04-13 11:11:21,912:INFO:Set up index.
+2023-04-13 11:12:23,441:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:12:23,442:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:12:23,442:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:12:23,442:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:12:27,118:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 11:12:31,279:INFO:Initializing load_model()
+2023-04-13 11:12:31,280:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 11:12:31,302:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 11:12:31,508:INFO:Initializing predict_model()
+2023-04-13 11:12:31,508:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025BF6DDF130>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x0000025BF7099510>)
+2023-04-13 11:12:31,508:INFO:Checking exceptions
+2023-04-13 11:12:31,508:INFO:Preloading libraries
+2023-04-13 11:12:31,510:INFO:Set up data.
+2023-04-13 11:12:31,520:INFO:Set up index.
+2023-04-13 11:30:06,237:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:30:06,238:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:30:06,238:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:30:06,239:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:30:10,480:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 11:30:14,478:INFO:Initializing load_model()
+2023-04-13 11:30:14,478:INFO:load_model(model_name=short_deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 11:30:14,516:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 11:30:14,562:INFO:Initializing predict_model()
+2023-04-13 11:30:14,563:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000181D95DF0A0>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x00000181D9899510>)
+2023-04-13 11:30:14,563:INFO:Checking exceptions
+2023-04-13 11:30:14,563:INFO:Preloading libraries
+2023-04-13 11:30:14,575:INFO:Set up data.
+2023-04-13 11:30:14,582:INFO:Set up index.
+2023-04-13 11:31:07,014:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:31:07,015:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:31:07,016:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:31:07,016:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:31:09,575:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 11:31:12,296:INFO:Initializing load_model()
+2023-04-13 11:31:12,296:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 11:31:12,319:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 11:31:25,108:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:31:25,109:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:31:25,109:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:31:25,109:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:31:28,134:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 11:31:31,139:INFO:Initializing load_model()
+2023-04-13 11:31:31,139:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 11:31:31,166:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 11:32:41,492:INFO:Initializing predict_model()
+2023-04-13 11:32:41,494:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000230E7626E90>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x00000230E763A170>)
+2023-04-13 11:32:41,495:INFO:Checking exceptions
+2023-04-13 11:32:41,496:INFO:Preloading libraries
+2023-04-13 11:32:41,533:INFO:Set up data.
+2023-04-13 11:32:41,616:INFO:Set up index.
+2023-04-13 11:32:43,227:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:271: UserWarning: Persisting input arguments took 0.66s to run.
+If this happens often in your code, it can cause performance problems 
+(results will be correct in all cases). 
+The reason for this is probably some large input arguments for a wrapped
+ function (e.g. large strings).
+THIS IS A JOBLIB ISSUE. If you can, kindly provide the joblib's team with an
+ example so that they can fix the problem.
+  X, y = self._memory_full_transform(
+
+2023-04-13 11:35:04,715:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:35:04,715:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:35:04,716:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:35:04,716:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:35:08,433:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 11:35:11,489:INFO:Initializing load_model()
+2023-04-13 11:35:11,489:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 11:35:11,510:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 11:37:28,348:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:37:28,349:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:37:28,357:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:37:28,357:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:37:31,157:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 11:37:33,668:INFO:Initializing load_model()
+2023-04-13 11:37:33,669:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 11:37:33,690:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 11:37:41,298:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:37:41,299:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:37:41,299:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:37:41,299:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 11:37:42,886:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 11:37:46,195:INFO:Initializing load_model()
+2023-04-13 11:37:46,195:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 11:37:46,221:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 11:39:00,162:INFO:Initializing predict_model()
+2023-04-13 11:39:00,164:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000020406025BA0>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x000002040603A320>)
+2023-04-13 11:39:00,165:INFO:Checking exceptions
+2023-04-13 11:39:00,165:INFO:Preloading libraries
+2023-04-13 11:39:00,180:INFO:Set up data.
+2023-04-13 11:39:00,225:INFO:Set up index.
+2023-04-13 20:50:37,682:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:50:37,682:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:50:37,682:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:50:37,682:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:50:38,998:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 20:50:44,182:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:50:44,182:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:50:44,182:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:50:44,182:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:50:45,543:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 20:52:30,434:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:52:30,434:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:52:30,434:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:52:30,434:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:52:31,839:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 20:52:33,016:INFO:Initializing load_model()
+2023-04-13 20:52:33,016:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 20:52:33,032:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 20:52:38,102:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:52:38,103:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:52:38,103:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:52:38,103:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:52:39,558:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 20:52:40,844:INFO:Initializing load_model()
+2023-04-13 20:52:40,844:INFO:load_model(model_name=deployment_28042020, platform=None, authentication=None, verbose=True)
+2023-04-13 20:52:40,844:WARNING:C:\Users\Personal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.0.0', 'IPython': '8.12.0', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.2', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.6.1', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.1', 'tbats': '1.1.2', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.16', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-04-13 20:53:06,179:INFO:Initializing predict_model()
+2023-04-13 20:53:06,180:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001D515845E40>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker...
+                                                              use_cat_names=True))),
+                ('polynomial_features',
+                 TransformerWrapper(transformer=PolynomialFeatures(include_bias=False))),
+                ('bin_numeric_features',
+                 TransformerWrapper(include=['age', 'bmi'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', LinearRegression(n_jobs=-1))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=0, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x000001D51585A320>)
+2023-04-13 20:53:06,180:INFO:Checking exceptions
+2023-04-13 20:53:06,181:INFO:Preloading libraries
+2023-04-13 20:53:06,195:INFO:Set up data.
+2023-04-13 20:53:06,232:INFO:Set up index.
+2023-04-13 20:55:00,069:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:55:00,069:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:55:00,069:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:55:00,069:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:55:01,225:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-13 20:55:06,363:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:55:06,363:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:55:06,363:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:55:06,363:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-13 20:55:07,428:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
