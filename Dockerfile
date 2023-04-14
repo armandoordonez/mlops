@@ -1,4 +1,5 @@
-FROM python:3.10
+# start by pulling the python image
+FROM python:3.8-alpine
 
 RUN pip install --upgrade pip
 RUN pip install virtualenv
@@ -15,7 +16,13 @@ ADD . /app
 RUN pip install -r requirements.txt
 
 # expose port
-EXPOSE 5000
+EXPOSE 80
+
+# configure the container to run in an executed manner
+ENTRYPOINT [ "python" ]
+
+CMD ["app_light.py" ]
+
 
 # run application
 # CMD ["python", "app_light.py"]

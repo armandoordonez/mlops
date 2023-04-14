@@ -3,6 +3,7 @@ from flask import Flask,request, url_for, redirect, render_template, jsonify
 # import pandas as pd
 # import pickle
 # import numpy as np
+import os
 
 app = Flask(__name__)
 
@@ -13,7 +14,7 @@ cols = ['age', 'sex', 'bmi', 'children', 'smoker', 'region']
 def home():
     return render_template("home.html")
 
-@app.route('/predict',methods=['POST'])
+@app.route('/predict',methods=['POST', 'GET'])
 def predict():
     #int_features = [x for x in request.form.values()]
     #final = np.array(int_features)
@@ -34,4 +35,5 @@ def predict_api():
     return jsonify(prediction)
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port='5000')
+    port = int(os.environ.get('PORT', 80))
+    app.run(debug=True, host='0.0.0.0', port=port)
